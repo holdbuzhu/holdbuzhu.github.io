@@ -1,0 +1,56 @@
+html {
+	font-size: 20px;
+}
+
+body,html,ul,li{
+	padding: 0;
+	margin: 0;
+	background-color: #f2f2f2;
+}
+
+div {
+	 text-align: center;
+}
+
+.pt {
+	width: 5.75rem;
+	height: 5.75rem;
+	background-color: #ecebde;
+	background-image: url(c.png);
+	background-position: center;
+	background-size: 50%;
+	background-repeat: no-repeat;
+	border-radius: 50%;
+	margin: 4.75rem auto 1rem; 
+}
+
+.header {
+	font-size: 0.85rem;
+	font-weight: bold;
+}
+.header span {
+	color: #c70000;
+	margin: 0.25rem;
+
+}
+.everbody {
+	font-size: 0.7rem;
+	margin: 0.6rem 0 0.75rem;
+}
+.friend {
+	width: 9.65rem;
+	height: 2.05rem;
+	line-height: 2.05rem;
+	font-size: 0.8rem;
+	background-color: #c70000;
+	color: #fff;
+	border-radius: 0.25rem;
+	text-align: center;
+	margin: 0 auto 0.6rem;
+}
+
+.tip {
+	color: #999;
+	font-size: 0.65rem;
+
+}
